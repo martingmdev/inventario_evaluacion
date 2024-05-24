@@ -1,4 +1,3 @@
-# inventario_evaluacion
 --Sistema de inventario para evaluación Técnica--
 
 Las herramientas utilizadas para el desarrollo de éste proyecto son:
@@ -23,19 +22,19 @@ Para probar la aplicación en un entorno de desarrollo local como lo puede ser (
 
     - Opción 2 mediante phpmyqdmin archivo sistema_inventario.sql: abrir phpmyadmin crear una base de datos nueva llamada sistema_inventario, una vez creada importar las tablas desde el archivo sistema_inventario.sql
 
-    NOTA: Se crearon dos usuarios predeterminados insertandolos directamente a la base de datos ya que no se solicita o no existe un modulo para alta de usuarios al sistema. 
-    
-    Los usuarios son:
-    
-    Administrador
-    
-    Correo: admin@lorem.com
-    Contraseña: admin123
-    
-    Almacenista
-    
-    Correo: store@lorem.com
-    Contraseña: store123
+NOTA: Se crearon dos usuarios predeterminados insertandolos directamente a la base de datos ya que no se solicita o no existe un modulo para alta de usuarios al sistema. 
+
+Los usuarios son:
+
+Administrador
+
+Correo: admin@lorem.com
+Contraseña: admin123
+
+Almacenista
+
+Correo: store@lorem.com
+Contraseña: store123
 
 4. En éste punto ya podemos ingresar al sistema en la direccion http://localhost/sistema_inventario.
 
