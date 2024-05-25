@@ -1,4 +1,4 @@
---Sistema de inventario para evaluación Técnica--
+👀 --Sistema de inventario para evaluación Técnica-- 👀 
 
 Las herramientas utilizadas para el desarrollo de éste proyecto son:
 
@@ -10,6 +10,7 @@ MariaDB 10.4.32 - DBMS.
 Navegador web Mozilla Firefox y Brave Browser.
 
 ------- Pasos para correr la aplicación --------
+
 Para probar la aplicación en un entorno de desarrollo local como lo puede ser (XAMPP) con Apache, MariaDB, PHP los pasos a seguir son:
 
 1. Tener previamente instalado nuestro servidor local y corriendo.
